@@ -1,0 +1,8 @@
+Z:\SCM\MicrosoftGraph\MicrosoftGraph\bin\Debug\MicrosoftGraph.exe.config
+Z:\SCM\MicrosoftGraph\MicrosoftGraph\bin\Debug\MicrosoftGraph.exe
+Z:\SCM\MicrosoftGraph\MicrosoftGraph\bin\Debug\MicrosoftGraph.pdb
+Z:\SCM\MicrosoftGraph\MicrosoftGraph\obj\Debug\MicrosoftGraph.csprojAssemblyReference.cache
+Z:\SCM\MicrosoftGraph\MicrosoftGraph\obj\Debug\MicrosoftGraph.Properties.Resources.resources
+Z:\SCM\MicrosoftGraph\MicrosoftGraph\obj\Debug\MicrosoftGraph.csproj.GenerateResource.cache
+Z:\SCM\MicrosoftGraph\MicrosoftGraph\obj\Debug\MicrosoftGraph.exe
+Z:\SCM\MicrosoftGraph\MicrosoftGraph\obj\Debug\MicrosoftGraph.pdb
